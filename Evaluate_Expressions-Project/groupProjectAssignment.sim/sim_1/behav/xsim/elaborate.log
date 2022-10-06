@@ -1,0 +1,14 @@
+Vivado Simulator 2017.4
+Copyright 1986-1999, 2001-2016 Xilinx, Inc. All Rights Reserved.
+Running: D:/Xilinx/Vivado/2017.4/bin/unwrapped/win64.o/xelab.exe -wto 43f6d1382d6240eb9cc8efd1c58e67e7 --incr --debug typical --relax --mt 2 -L xil_defaultlib -L unisims_ver -L unimacro_ver -L secureip --snapshot test_bench_behav xil_defaultlib.test_bench xil_defaultlib.glbl -log elaborate.log 
+Using 2 slave threads.
+Starting static elaboration
+WARNING: [VRFC 10-1783] select index 50 into tempResult2 is out of bounds [D:/Documents/groupProject/groupProjectAssignment/groupProjectAssignment.srcs/sources_1/new/main_module.v:173]
+Completed static elaboration
+Starting simulation data flow analysis
+Completed simulation data flow analysis
+Time Resolution for simulation is 1ps
+Compiling module xil_defaultlib.main_module
+Compiling module xil_defaultlib.test_bench
+Compiling module xil_defaultlib.glbl
+Built simulation snapshot test_bench_behav

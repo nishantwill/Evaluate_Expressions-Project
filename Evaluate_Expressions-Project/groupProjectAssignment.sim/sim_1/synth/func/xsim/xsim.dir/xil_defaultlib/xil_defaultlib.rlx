@@ -1,0 +1,7 @@
+0.6
+2017.4
+Dec 15 2017
+21:07:18
+D:/Documents/groupProject/groupProjectAssignment/groupProjectAssignment.sim/sim_1/synth/func/xsim/test_bench_func_synth.v,1638374342,verilog,,D:/Documents/groupProject/groupProjectAssignment/groupProjectAssignment.srcs/sources_1/new/main_module.v,,adder;adder_2;adder_3;adder_6;addition_normaliser;addition_normaliser_13;addition_normaliser_14;addition_normaliser_17;divider;fpu;glbl;multiplication_normaliser;multiplication_normaliser_10;multiplication_normaliser_11;multiplication_normaliser_12;multiplication_normaliser_15;multiplication_normaliser_16;multiplication_normaliser_9;multiplier;multiplier_0;multiplier_1;multiplier_4;multiplier_5;multiplier_7;multiplier_8;reciprocal,,,,,,,,
+D:/Documents/groupProject/groupProjectAssignment/groupProjectAssignment.srcs/sim_1/new/test_bench.v,1638373126,verilog,,,,test_bench,,,,,,,,
+D:/Documents/groupProject/groupProjectAssignment/groupProjectAssignment.srcs/sources_1/new/main_module.v,1638371951,verilog,,D:/Documents/groupProject/groupProjectAssignment/groupProjectAssignment.srcs/sim_1/new/test_bench.v,,main_module,,,,,,,,

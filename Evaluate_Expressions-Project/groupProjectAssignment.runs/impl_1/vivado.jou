@@ -1,0 +1,12 @@
+#-----------------------------------------------------------
+# Vivado v2017.4 (64-bit)
+# SW Build 2086221 on Fri Dec 15 20:55:39 MST 2017
+# IP Build 2085800 on Fri Dec 15 22:25:07 MST 2017
+# Start of session at: Wed Dec  1 21:30:56 2021
+# Process ID: 9184
+# Current directory: D:/Documents/groupProject/groupProjectAssignment/groupProjectAssignment.runs/impl_1
+# Command line: vivado.exe -log fpu.vdi -applog -product Vivado -messageDb vivado.pb -mode batch -source fpu.tcl -notrace
+# Log file: D:/Documents/groupProject/groupProjectAssignment/groupProjectAssignment.runs/impl_1/fpu.vdi
+# Journal file: D:/Documents/groupProject/groupProjectAssignment/groupProjectAssignment.runs/impl_1\vivado.jou
+#-----------------------------------------------------------
+source fpu.tcl -notrace

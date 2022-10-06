@@ -1,0 +1,8 @@
+# compile verilog/system verilog design source files
+verilog xil_defaultlib  \
+"test_bench_func_impl.v" \
+"../../../../../groupProjectAssignment.srcs/sources_1/new/main_module.v" \
+"../../../../../groupProjectAssignment.srcs/sim_1/new/test_bench.v" \
+
+# Do not sort compile order
+nosort

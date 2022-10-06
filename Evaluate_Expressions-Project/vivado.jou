@@ -1,0 +1,14 @@
+#-----------------------------------------------------------
+# Vivado v2017.4 (64-bit)
+# SW Build 2086221 on Fri Dec 15 20:55:39 MST 2017
+# IP Build 2085800 on Fri Dec 15 22:25:07 MST 2017
+# Start of session at: Wed Dec  1 20:54:54 2021
+# Process ID: 4176
+# Current directory: D:/Documents/groupProject/groupProjectAssignment
+# Command line: vivado.exe -gui_launcher_event rodinguilauncherevent7872 D:\Documents\groupProject\groupProjectAssignment\groupProjectAssignment.xpr
+# Log file: D:/Documents/groupProject/groupProjectAssignment/vivado.log
+# Journal file: D:/Documents/groupProject/groupProjectAssignment\vivado.jou
+#-----------------------------------------------------------
+start_gui
+open_project D:/Documents/groupProject/groupProjectAssignment/groupProjectAssignment.xpr
+update_compile_order -fileset sources_1
